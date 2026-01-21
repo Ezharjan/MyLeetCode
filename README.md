@@ -27,6 +27,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0001-two-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ezharjan/MyLeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ezharjan/MyLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Ezharjan/MyLeetCode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,5 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ezharjan/MyLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Ezharjan/MyLeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
