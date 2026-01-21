@@ -3,7 +3,7 @@ Stores here are my daily exercising of Leet Code Problems during my coffee time,
 
 
 ## Acknowledgement
-Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) Google Chrome Browser extension from my `[alexandera](https://leetcode.com/u/yYloziuETU/)` leetcode account.
 
 
 
@@ -33,7 +33,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## String
 |  |
 | ------- |
-| [0014-longest-common-prefix](https://github.com/Ezharjan/MyLeetCode/tree/master/0014-longest-common-prefix) |
+| [0014-longest-common-prefix](https://github.com/Ezharjan/MyLeetCode/tree/master/0014-longest-common-prefix) | 
 ## Trie
 |  |
 | ------- |
