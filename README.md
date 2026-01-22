@@ -44,6 +44,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0605-can-place-flowers](https://github.com/Ezharjan/MyLeetCode/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/Ezharjan/MyLeetCode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Ezharjan/MyLeetCode/tree/master/0733-flood-fill) |
+| [0821-shortest-distance-to-a-character](https://github.com/Ezharjan/MyLeetCode/tree/master/0821-shortest-distance-to-a-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ezharjan/MyLeetCode/tree/master/0014-longest-common-prefix) |
+| [0821-shortest-distance-to-a-character](https://github.com/Ezharjan/MyLeetCode/tree/master/0821-shortest-distance-to-a-character) |
 ## Trie
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0088-merge-sorted-array](https://github.com/Ezharjan/MyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Ezharjan/MyLeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ezharjan/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0821-shortest-distance-to-a-character](https://github.com/Ezharjan/MyLeetCode/tree/master/0821-shortest-distance-to-a-character) |
 ## Binary Search
 |  |
 | ------- |
