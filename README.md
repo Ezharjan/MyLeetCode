@@ -28,6 +28,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0014-longest-common-prefix](https://github.com/Ezharjan/MyLeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ezharjan/MyLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ezharjan/MyLeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Ezharjan/MyLeetCode/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,8 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ezharjan/MyLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ezharjan/MyLeetCode/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Ezharjan/MyLeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
