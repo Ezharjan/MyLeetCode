@@ -42,6 +42,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0349-intersection-of-two-arrays](https://github.com/Ezharjan/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Ezharjan/MyLeetCode/tree/master/0605-can-place-flowers) |
+| [0661-image-smoother](https://github.com/Ezharjan/MyLeetCode/tree/master/0661-image-smoother) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +94,8 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Ezharjan/MyLeetCode/tree/master/0605-can-place-flowers) |
+## Matrix
+|  |
+| ------- |
+| [0661-image-smoother](https://github.com/Ezharjan/MyLeetCode/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
