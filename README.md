@@ -18,6 +18,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ezharjan/MyLeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Ezharjan/MyLeetCode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -36,12 +37,14 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0217-contains-duplicate](https://github.com/Ezharjan/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Ezharjan/MyLeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Ezharjan/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -60,15 +63,18 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ezharjan/MyLeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ezharjan/MyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ezharjan/MyLeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
