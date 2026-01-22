@@ -17,6 +17,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ezharjan/MyLeetCode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Ezharjan/MyLeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ezharjan/MyLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ezharjan/MyLeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ezharjan/MyLeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Ezharjan/MyLeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
