@@ -13,6 +13,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ezharjan/MyLeetCode/tree/master/0002-add-two-numbers) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0929-unique-email-addresses](https://github.com/Ezharjan/MyLeetCode/tree/master/0929-unique-email-addresses) |
 | [1089-duplicate-zeros](https://github.com/Ezharjan/MyLeetCode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/1200-minimum-absolute-difference) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +60,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ezharjan/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0929-unique-email-addresses](https://github.com/Ezharjan/MyLeetCode/tree/master/0929-unique-email-addresses) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## String
 |  |
 | ------- |
@@ -126,4 +129,17 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Ezharjan/MyLeetCode/tree/master/0832-flipping-an-image) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
