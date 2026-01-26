@@ -8,30 +8,35 @@ class Solution {
 public:
     int longestPalindromeSubseq(string s) {
         int n = s.length();
-        // dp[i][j] will store the length of the longest palindromic subsequence
-        // for the substring s starting at index i and ending at index j.
-        vector<vector<int>> dp(n, vector<int>(n, 0));
+        // dp[j] will store the LPS length for the substring s[i...j]
+        // Initially, we treat it as the values from the previous row (i+1)
+        vector<int> dp(n, 0);
 
-        // Iterate backwards from the last character to the first.
-        // We go backwards for 'i' because dp[i][j] depends on dp[i+1][...], 
-        // which represents the row below it.
+        // Iterate backwards just like the 2D approach
         for (int i = n - 1; i >= 0; i--) {
-            // Base case: A single character is always a palindrome of length 1
-            dp[i][i] = 1;
+            dp[i] = 1; // Base case: single character s[i] is length 1
+            
+            int prevDiag = 0; // Stores dp[i+1][j-1] (the diagonal value)
 
-            // Iterate forwards for the end index 'j'
             for (int j = i + 1; j < n; j++) {
+                int temp = dp[j]; // Store dp[i+1][j] before we overwrite it
+                
                 if (s[i] == s[j]) {
-                    // Ends match: 2 + result from the inner part
-                    dp[i][j] = 2 + dp[i + 1][j - 1];
+                    // Match: 2 + value from inner range (s[i+1...j-1])
+                    // prevDiag holds the value of dp[j-1] from the previous iteration of i
+                    dp[j] = 2 + prevDiag;
                 } else {
-                    // Ends don't match: take max of ignoring left or ignoring right
-                    dp[i][j] = max(dp[i + 1][j], dp[i][j - 1]);
+                    // No Match: max(current range without left, current range without right)
+                    // dp[j] is currently s[i+1...j] (ignore left)
+                    // dp[j-1] is currently s[i...j-1] (ignore right)
+                    dp[j] = max(dp[j], dp[j-1]);
                 }
+                
+                // Update prevDiag for the next column's use
+                prevDiag = temp;
             }
         }
 
-        // The answer for the whole string is the range s[0...n-1]
-        return dp[0][n - 1];
+        return dp[n - 1];
     }
 };
