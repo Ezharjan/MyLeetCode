@@ -54,6 +54,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ezharjan/MyLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0661-image-smoother](https://github.com/Ezharjan/MyLeetCode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Ezharjan/MyLeetCode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Ezharjan/MyLeetCode/tree/master/0832-flipping-an-image) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -171,6 +173,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0005-longest-palindromic-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ezharjan/MyLeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Ezharjan/MyLeetCode/tree/master/0647-palindromic-substrings) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Graph Theory
 |  |
 | ------- |
