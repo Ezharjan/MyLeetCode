@@ -18,6 +18,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ezharjan/MyLeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Ezharjan/MyLeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Ezharjan/MyLeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 ## Recursion
