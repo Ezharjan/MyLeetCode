@@ -21,6 +21,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0007-reverse-integer](https://github.com/Ezharjan/MyLeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Ezharjan/MyLeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 ## Recursion
 |  |
 | ------- |
@@ -202,6 +203,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3743-maximize-cyclic-partition-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3743-maximize-cyclic-partition-score) |
 ## Graph Theory
 |  |
