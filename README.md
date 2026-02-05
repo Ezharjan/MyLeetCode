@@ -24,6 +24,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3609-minimum-moves-to-reach-target-in-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 ## Recursion
 |  |
