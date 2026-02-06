@@ -1,5 +1,8 @@
 # Solving the Code of the Infinite Grid Reverse Logic [#3609]
 
+[Blog Post Link](https://leetcode.com/discuss/post/7556315/solving-the-code-of-the-infinite-grid-re-pzoc/)
+
+
 Hello to everyone in the coding community! 
 I hope you are all having a wonderful day solving problems and learning new algorithms. Today I want to share a journey I went through with a particularly tricky problem involving an infinite grid and some very large coordinates.
 
