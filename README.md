@@ -190,6 +190,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ezharjan/MyLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0733-flood-fill](https://github.com/Ezharjan/MyLeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -286,4 +287,13 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ezharjan/MyLeetCode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ezharjan/MyLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ezharjan/MyLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ezharjan/MyLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
