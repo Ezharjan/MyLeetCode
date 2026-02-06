@@ -69,6 +69,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3379-transformed-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3379-transformed-array) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -147,6 +148,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ezharjan/MyLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0219-contains-duplicate-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ezharjan/MyLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
 | ------- |
