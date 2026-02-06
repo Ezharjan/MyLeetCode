@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-cost-path-with-teleportations">3889. Minimum Cost Path with Teleportations</a></h2><h3>Hard</h3><hr><p>You are given a <code>m x n</code> 2D integer array <code>grid</code> and an integer <code>k</code>. You start at the top-left cell <code>(0, 0)</code> and your goal is to reach the bottom‐right cell <code>(m - 1, n - 1)</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-cost-path-with-teleportations">3651. Minimum Cost Path with Teleportations</a></h2><h3>Hard</h3><hr><p>You are given a <code>m x n</code> 2D integer array <code>grid</code> and an integer <code>k</code>. You start at the top-left cell <code>(0, 0)</code> and your goal is to reach the bottom‐right cell <code>(m - 1, n - 1)</code>.</p>
 
 <p>There are two types of moves available:</p>
 
