@@ -109,6 +109,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0013-roman-to-integer](https://github.com/Ezharjan/MyLeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ezharjan/MyLeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ezharjan/MyLeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ezharjan/MyLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Ezharjan/MyLeetCode/tree/master/0067-add-binary) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ezharjan/MyLeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Ezharjan/MyLeetCode/tree/master/0647-palindromic-substrings) |
@@ -132,6 +133,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0011-container-with-most-water](https://github.com/Ezharjan/MyLeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ezharjan/MyLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ezharjan/MyLeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ezharjan/MyLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Ezharjan/MyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Ezharjan/MyLeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ezharjan/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -289,6 +291,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ezharjan/MyLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 ## Stack
 |  |
