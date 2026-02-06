@@ -13,6 +13,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ezharjan/MyLeetCode/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Ezharjan/MyLeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
