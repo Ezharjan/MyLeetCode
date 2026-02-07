@@ -76,6 +76,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3379-transformed-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3379-transformed-array) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -177,6 +178,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0136-single-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Ezharjan/MyLeetCode/tree/master/0832-flipping-an-image) |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0661-image-smoother](https://github.com/Ezharjan/MyLeetCode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Ezharjan/MyLeetCode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Ezharjan/MyLeetCode/tree/master/0832-flipping-an-image) |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Depth-First Search
 |  |
@@ -252,6 +255,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ezharjan/MyLeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3640-trionic-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -325,4 +329,8 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ezharjan/MyLeetCode/tree/master/0070-climbing-stairs) |
+## Bitmask
+|  |
+| ------- |
+| [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 <!---LeetCode Topics End-->
