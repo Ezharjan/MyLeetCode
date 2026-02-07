@@ -70,6 +70,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1200-minimum-absolute-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ezharjan/MyLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ezharjan/MyLeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -98,6 +99,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ezharjan/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0929-unique-email-addresses](https://github.com/Ezharjan/MyLeetCode/tree/master/0929-unique-email-addresses) |
+| [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -216,6 +218,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [0100-same-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/0100-same-tree) |
 | [0733-flood-fill](https://github.com/Ezharjan/MyLeetCode/tree/master/0733-flood-fill) |
+| [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -239,6 +242,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Ordered Set
 |  |
 | ------- |
+| [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Divide and Conquer
 |  |
@@ -337,4 +341,8 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+## Union-Find
+|  |
+| ------- |
+| [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
 <!---LeetCode Topics End-->
