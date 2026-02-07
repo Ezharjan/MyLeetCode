@@ -75,6 +75,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3379-transformed-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3379-transformed-array) |
@@ -201,6 +202,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0661-image-smoother](https://github.com/Ezharjan/MyLeetCode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Ezharjan/MyLeetCode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Ezharjan/MyLeetCode/tree/master/0832-flipping-an-image) |
+| [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Depth-First Search
@@ -255,6 +257,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ezharjan/MyLeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3640-trionic-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3640-trionic-array-ii) |
@@ -277,6 +280,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 ## Segment Tree
 |  |
 | ------- |
