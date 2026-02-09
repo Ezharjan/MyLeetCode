@@ -213,6 +213,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0011-container-with-most-water](https://github.com/Ezharjan/MyLeetCode/tree/master/0011-container-with-most-water) |
 | [0420-strong-password-checker](https://github.com/Ezharjan/MyLeetCode/tree/master/0420-strong-password-checker) |
 | [0605-can-place-flowers](https://github.com/Ezharjan/MyLeetCode/tree/master/0605-can-place-flowers) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -233,6 +234,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0100-same-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/0110-balanced-binary-tree) |
 | [0733-flood-fill](https://github.com/Ezharjan/MyLeetCode/tree/master/0733-flood-fill) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
 ## Breadth-First Search
 |  |
@@ -270,6 +272,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ezharjan/MyLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
@@ -362,6 +365,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0094-binary-tree-inorder-traversal](https://github.com/Ezharjan/MyLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
 ## Binary Tree
 |  |
@@ -369,6 +373,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0094-binary-tree-inorder-traversal](https://github.com/Ezharjan/MyLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -397,4 +402,8 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
