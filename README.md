@@ -118,6 +118,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Ezharjan/MyLeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/Ezharjan/MyLeetCode/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Ezharjan/MyLeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Trie
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Ezharjan/MyLeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -369,6 +372,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0094-binary-tree-inorder-traversal](https://github.com/Ezharjan/MyLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ezharjan/MyLeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Ezharjan/MyLeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Tree
 |  |
 | ------- |
@@ -409,6 +413,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Ezharjan/MyLeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
