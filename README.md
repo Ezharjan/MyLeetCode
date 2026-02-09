@@ -80,6 +80,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3139-minimum-cost-to-equalize-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3139-minimum-cost-to-equalize-array) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
@@ -216,6 +217,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0605-can-place-flowers](https://github.com/Ezharjan/MyLeetCode/tree/master/0605-can-place-flowers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3139-minimum-cost-to-equalize-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3139-minimum-cost-to-equalize-array) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
@@ -314,6 +316,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3139-minimum-cost-to-equalize-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3139-minimum-cost-to-equalize-array) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 ## Segment Tree
