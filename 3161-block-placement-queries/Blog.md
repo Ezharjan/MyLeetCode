@@ -2,7 +2,7 @@
 
 [Blog Post Link](https://leetcode.com/discuss/post/7564362/navigating-the-number-line-efficiently-w-6b9x/)
 
-Welcome fellow coders! Today we are going to dive deep into a fascinating problem that combines spatial reasoning with efficient data structure management. If you have ever enjoyed problems involving intervals, dynamic updates, or resource allocation on a timeline, this challenge is right up your alley. We will explore how to manage obstacles on a number line and determine if we can fit blocks of a certain size into specific regions.
+Welcome fellow coders! Now we are going to dive deep into a fascinating problem that combines spatial reasoning with efficient data structure management. If you have ever enjoyed problems involving intervals, dynamic updates, or resource allocation on a timeline, this challenge is right up your alley. We will explore how to manage obstacles on a number line and determine if we can fit blocks of a certain size into specific regions.
 
 This approach relies on two powerful tools in algorithmic programming which are the Segment Tree and the Ordered Set. By the end of this post, you will have a clear mental model of how to handle dynamic gap queries and a solid C++ solution to add to your toolkit.
 
@@ -12,35 +12,33 @@ Let us start by clearly defining the problem. Imagine you have an infinite numbe
 
 There are two types of interactions you need to handle.
 
-**Type 1 Interaction The Obstacle**
-You are given a coordinate . You must build an obstacle at this exact distance  from the origin. The problem guarantees that no obstacle currently exists at that location. You can think of this as placing a permanent divider at that point on the line.
+### Type 1 Interaction The Obstacle
+You are given a coordinate `x`. You must build an obstacle at this exact distance `x` from the origin. The problem guarantees that no obstacle currently exists at that location. You can think of this as placing a permanent divider at that point on the line.
 
-**Type 2 Interaction The Feasibility Check**
-You are given a coordinate  and a size value . The question is simple yet tricky. Is it possible to place a block of width  somewhere in the range ?
+### Type 2 Interaction The Feasibility Check
+You are given a coordinate `x` and a size value `sz`. The question is simple yet tricky. Is it possible to place a block of width `sz` somewhere in the range `[0, x]`?
 
 There are strict rules for this placement.
-
-1. The block must lie entirely within .
+1. The block must lie entirely within `[0, x]`.
 2. The block cannot overlap with any obstacles.
 3. The block can touch an obstacle, but it cannot cross it.
 
-Essentially, we are looking for a continuous empty gap of length at least  that exists completely before the coordinate .
+Essentially, we are looking for a continuous empty gap of length at least `sz` that exists completely before the coordinate `x`.
 
-### The Scale of the Problem
+## The Scale of the Problem
 
 Before jumping into solutions, we must look at the constraints to understand what computational resources we have.
-
-* The coordinate values  are up to .
-* The number of queries is up to  (based on the coordinate limit) or up to  total operations.
-* This suggests that an algorithm with  complexity will be too slow. We need something closer to  or .
+* The coordinate values `x` are up to 50,000.
+* The number of queries is up to 50,000 (based on the coordinate limit) or up to 150,000 total operations.
+* This suggests that an algorithm with O(N squared) complexity will be too slow. We need something closer to O(N log N) or O(N sqrt N).
 
 ## The Naive Approach and Its Limitations
 
-When we first look at this, it is tempting to simulate the number line directly. Since the maximum coordinate is around , one might create a boolean array of size  where `true` means an obstacle exists and `false` means it is empty.
+When we first look at this, it is tempting to simulate the number line directly. Since the maximum coordinate is around 50,000, one might create a boolean array of size 50,000 where `true` means an obstacle exists and `false` means it is empty.
 
-For a Type 1 query (placing an obstacle), we just update the array index to `true`. This is very fast, taking  time.
+For a Type 1 query (placing an obstacle), we just update the array index to `true`. This is very fast, taking O(1) time.
 
-However, the Type 2 query (checking for space) becomes difficult. To find if a gap of size  exists before , we would have to iterate through the array from  to , counting consecutive `false` values. In the worst case, this linear scan takes  time. If we have many Type 2 queries with large  values, our total time complexity skyrockets, leading to a Time Limit Exceeded verdict.
+However, the Type 2 query (checking for space) becomes difficult. To find if a gap of size `sz` exists before `x`, we would have to iterate through the array from 0 to `x`, counting consecutive `false` values. In the worst case, this linear scan takes O(x) time. If we have many Type 2 queries with large `x` values, our total time complexity skyrockets, leading to a Time Limit Exceeded verdict.
 
 We need a way to answer "what is the largest gap in this range?" much faster than checking every single point.
 
@@ -49,79 +47,79 @@ We need a way to answer "what is the largest gap in this range?" much faster tha
 Let us rethink the problem. We do not care about every single point on the line. We really only care about the **intervals** or **gaps** formed by the obstacles.
 
 Imagine the number line as a long string.
-
 * Initially, we have one giant interval starting at 0.
-* When we place an obstacle at , we cut the interval containing  into two smaller intervals.
-* When we want to place a block of size  before , we need to know if the maximum interval length in the range  is at least .
+* When we place an obstacle at `x`, we cut the interval containing `x` into two smaller intervals.
+* When we want to place a block of size `sz` before `x`, we need to know if the maximum interval length in the range `[0, x]` is at least `sz`.
 
 This gives us the hint for our solution. We need a system that can **dynamically split intervals** and **efficiently query the maximum value** over a range.
 
-### The Two Data Structures
+## The Two Data Structures
 
 To achieve this, we will combine two data structures.
 
-1. **std::set (Ordered Set)**
-We need to know where the obstacles are to calculate gap sizes. An ordered set is perfect for this. It keeps all obstacle coordinates sorted. This allows us to find the nearest obstacle to the left and right of any point in logarithmic time.
-2. **Segment Tree (Range Maximum Query)**
-We need to know the largest gap size in a specific range. A Segment Tree is a binary tree structure that allows us to update values and query the maximum value in a range, both in  time.
+1.  **std::set (Ordered Set)**
+    We need to know where the obstacles are to calculate gap sizes. An ordered set is perfect for this. It keeps all obstacle coordinates sorted. This allows us to find the nearest obstacle to the left and right of any point in logarithmic time.
+
+2.  **Segment Tree (Range Maximum Query)**
+    We need to know the largest gap size in a specific range. A Segment Tree is a binary tree structure that allows us to update values and query the maximum value in a range, both in O(log N) time.
 
 ### Designing the Segment Tree
 
 This is the most critical part of the logic. What exactly does the Segment Tree store?
 
-We will build a Segment Tree over the coordinates from  to .
-At every index  in the Segment Tree, we will store the **size of the gap that ends at **.
+We will build a Segment Tree over the coordinates from 0 to 50,000.
+At every index `i` in the Segment Tree, we will store the **size of the gap that ends at `i`**.
 
-* If there is no obstacle at , we store 0.
-* If there is an obstacle at , and the previous obstacle was at , then the gap ending at  has size  minus . We store this value at index .
+* If there is no obstacle at `i`, we store 0.
+* If there is an obstacle at `i`, and the previous obstacle was at `prev`, then the gap ending at `i` has size `i` minus `prev`. We store this value at index `i`.
 
 Why do we do this?
-By storing the gap size at the coordinate where the gap *ends*, a Range Maximum Query from  to  tells us the size of the largest **completed** gap that fits entirely within the prefix.
+By storing the gap size at the coordinate where the gap *ends*, a Range Maximum Query from 0 to `x` tells us the size of the largest **completed** gap that fits entirely within the prefix.
 
 ## The Algorithm Step by Step
 
 Let us walk through the lifecycle of the queries.
 
 ### Initialization
-
 We start with a Segment Tree filled with zeros.
-We also initialize our ordered set. It is helpful to treat the origin  as an implicit obstacle because no block can go before 0. So, we insert `0` into our set.
+We also initialize our ordered set. It is helpful to treat the origin 0 as an implicit obstacle because no block can go before 0. So, we insert `0` into our set.
 
 ### Handling Query Type 1 Placing an Obstacle
+Suppose we receive a query to place an obstacle at `x`.
 
-Suppose we receive a query to place an obstacle at .
+1.  **Find Neighbors**
+    Using our set, we find the existing obstacles immediately surrounding `x`. Let us call the obstacle to the left `L` and the obstacle to the right `R`.
+    (Note that `R` might not exist if `x` is larger than all current obstacles).
 
-1. **Find Neighbors**
-Using our set, we find the existing obstacles immediately surrounding . Let us call the obstacle to the left  and the obstacle to the right .
-(Note that  might not exist if  is larger than all current obstacles).
-2. **Update the Old Gap**
-Before placing , there was a single gap between  and . The size of this gap was stored in the Segment Tree at index .
-Since we are placing an obstacle at , the gap ending at  is no longer  minus . It has shrunk! It is now the gap between  and .
-So, we update the Segment Tree at index  with the new value  minus .
-3. **Create the New Gap**
-Now we have a new gap formed between  and . The size is  minus .
-We update the Segment Tree at index  with this value.
-4. **Update Set**
-Finally, we insert  into our set of obstacles.
+2.  **Update the Old Gap**
+    Before placing `x`, there was a single gap between `L` and `R`. The size of this gap was stored in the Segment Tree at index `R`.
+    Since we are placing an obstacle at `x`, the gap ending at `R` is no longer `R` minus `L`. It has shrunk! It is now the gap between `x` and `R`.
+    So, we update the Segment Tree at index `R` with the new value `R` minus `x`.
+
+3.  **Create the New Gap**
+    Now we have a new gap formed between `L` and `x$. The size is `x` minus `L$.
+    We update the Segment Tree at index `x` with this value.
+
+4.  **Update Set**
+    Finally, we insert `x` into our set of obstacles.
 
 ### Handling Query Type 2 Checking Feasibility
-
-Suppose we receive a query to check if a block of size  fits in .
+Suppose we receive a query to check if a block of size `sz` fits in `[0, x]`.
 
 This check consists of two parts.
 
 **Part A Completed Gaps**
-We need to check all the gaps that are fully enclosed by obstacles within the range .
-Using our set, we find the largest obstacle that is less than or equal to . Let us call this `max_obs`.
-We perform a query on our Segment Tree for the range . This returns the largest gap size among all gaps that end at or before `max_obs`.
+We need to check all the gaps that are fully enclosed by obstacles within the range `[0, x]`.
+Using our set, we find the largest obstacle that is less than or equal to `x`. Let us call this `max_obs`.
+We perform a query on our Segment Tree for the range `[0, max_obs]`. This returns the largest gap size among all gaps that end at or before `max_obs`.
 
 **Part B The Trailing Gap**
-There is one gap that the Segment Tree might miss or not fully capture relative to . That is the space between the last obstacle `max_obs` and the query boundary .
-Even though there is no obstacle at , the space from `max_obs` to  is valid free space. We calculate this size as  minus `max\_obs`.
+There is one gap that the Segment Tree might miss or not fully capture relative to `x`. That is the space between the last obstacle `max_obs` and the query boundary `x`.
+Even though there is no obstacle at `x`, the space from `max_obs` to `x` is valid free space. We calculate this size as `x` minus `max_obs`.
 
 **Final Decision**
 The maximum available space is the larger of the result from Part A and the result from Part B.
-If this maximum space is greater than or equal to , the answer is `true`. Otherwise, it is `false`.
+If this maximum space is greater than or equal to `sz`, the answer is `true`. Otherwise, it is `false`.
 
 ## Detailed C++ Implementation
 
@@ -292,25 +290,25 @@ Let us evaluate the performance of our solution to ensure it meets the requireme
 ### Time Complexity
 
 1. **Preprocessing**
-Building the initial empty Segment Tree takes linear time relative to the coordinate range, which is roughly  where  is 50,000. This is negligible.
+Building the initial empty Segment Tree takes linear time relative to the coordinate range, which is roughly O(M) where M is 50,000. This is negligible.
 2. **Type 1 Query (Update)**
-* Set operations `insert` and `upper_bound` take  time, where  is the number of obstacles.
-* Segment Tree updates take  time.
-* Total per query .
+* Set operations `insert` and `upper_bound` take O(log Q) time, where Q is the number of obstacles.
+* Segment Tree updates take O(log M) time.
+* Total per query O(log Q + log M).
 
 
 3. **Type 2 Query (Query)**
-* Set operations take .
-* Segment Tree query takes .
-* Total per query .
+* Set operations take O(log Q).
+* Segment Tree query takes O(log M).
+* Total per query O(log Q + log M).
 
 
 
-Given that both  and  are relatively small (in the tens of thousands), this solution runs extremely fast. It avoids the heavy  scan of the naive approach.
+Given that both Q and M are relatively small (in the tens of thousands), this solution runs extremely fast. It avoids the heavy O(N) scan of the naive approach.
 
 ### Space Complexity
 
-We use a Segment Tree array of size , which is roughly  integers. This consumes less than 1 MB of memory. The set stores up to  integers. This is extremely memory efficient and well within standard limits.
+We use a Segment Tree array of size 4 x 50,000, which is roughly 200,000 integers. This consumes less than 1 MB of memory. The set stores up to 50,000 integers. This is extremely memory efficient and well within standard limits.
 
 ## Common Pitfalls and Edge Cases
 
@@ -319,9 +317,9 @@ When implementing this, keep an eye out for these tricky situations.
 * **Coordinate Zero**
 Always remember that the number line starts at 0. Treating 0 as an initial obstacle simplifies the logic because you never have to check for "undefined" left boundaries.
 * **The Rightmost Gap**
-It is easy to forget the space between the last obstacle and the query coordinate . The Segment Tree only knows about intervals that *end* at an obstacle. The space after the last obstacle is virtual until an obstacle is placed there. Do not forget to calculate `x minus max_obs`.
+It is easy to forget the space between the last obstacle and the query coordinate `x`. The Segment Tree only knows about intervals that *end* at an obstacle. The space after the last obstacle is virtual until an obstacle is placed there. Do not forget to calculate `x` minus `max_obs`.
 * **Strict Inequality**
-The problem allows the block to *touch* obstacles. So, a gap of size exactly  is sufficient. Ensure your comparison is `>= sz` and not `> sz`.
+The problem allows the block to *touch* obstacles. So, a gap of size exactly `sz` is sufficient. Ensure your comparison is `>= sz` and not `> sz`.
 
 ## Conclusion
 
@@ -329,6 +327,4 @@ This problem is a classic example of how changing your perspective can simplify 
 
 The combination of a **Set** for order and connectivity and a **Segment Tree** for aggregate statistics is a pattern that appears frequently in competitive programming. Mastering this pattern gives you a powerful template for solving many other hard problems involving dynamic ranges.
 
-I hope this walkthrough clarifies the logic behind Block Placement Queries! Feel free to adapt this code and experiment with different inputs to see the logic in action. 
-
-Happy leet-coding and have a nice week everyone!
+I hope this walkthrough clarifies the logic behind Block Placement Queries! Feel free to adapt this code and experiment with different inputs to see the logic in action. Happy coding!
