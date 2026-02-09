@@ -2,7 +2,7 @@
 
 [Blog Post Link](https://leetcode.com/discuss/post/7564362/navigating-the-number-line-efficiently-w-6b9x/)
 
-Welcome fellow coders! Now we are going to dive deep into a fascinating problem that combines spatial reasoning with efficient data structure management. If you have ever enjoyed problems involving intervals, dynamic updates, or resource allocation on a timeline, this challenge is right up your alley. We will explore how to manage obstacles on a number line and determine if we can fit blocks of a certain size into specific regions.
+Welcome fellow coders! Today we are going to dive deep into a fascinating problem that combines spatial reasoning with efficient data structure management. If you have ever enjoyed problems involving intervals, dynamic updates, or resource allocation on a timeline, this challenge is right up your alley. We will explore how to manage obstacles on a number line and determine if we can fit blocks of a certain size into specific regions.
 
 This approach relies on two powerful tools in algorithmic programming which are the Segment Tree and the Ordered Set. By the end of this post, you will have a clear mental model of how to handle dynamic gap queries and a solid C++ solution to add to your toolkit.
 
@@ -71,7 +71,7 @@ We will build a Segment Tree over the coordinates from 0 to 50,000.
 At every index `i` in the Segment Tree, we will store the **size of the gap that ends at `i`**.
 
 * If there is no obstacle at `i`, we store 0.
-* If there is an obstacle at `i`, and the previous obstacle was at `prev`, then the gap ending at `i` has size `i` minus `prev`. We store this value at index `i`.
+* If there is an obstacle at `i`, and the previous obstacle was at `prev`, then the gap ending at `i` has size `i` + `prev`. We store this value at index `i`.
 
 Why do we do this?
 By storing the gap size at the coordinate where the gap *ends*, a Range Maximum Query from 0 to `x` tells us the size of the largest **completed** gap that fits entirely within the prefix.
@@ -97,7 +97,7 @@ Suppose we receive a query to place an obstacle at `x`.
     So, we update the Segment Tree at index `R` with the new value `R` minus `x`.
 
 3.  **Create the New Gap**
-    Now we have a new gap formed between `L` and `x$. The size is `x` minus `L$.
+    Now we have a new gap formed between `L` and `x`. The size is `x + L`.
     We update the Segment Tree at index `x` with this value.
 
 4.  **Update Set**
