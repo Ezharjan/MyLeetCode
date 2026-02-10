@@ -188,6 +188,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ezharjan/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ezharjan/MyLeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2286-booking-concert-tickets-in-groups](https://github.com/Ezharjan/MyLeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3288-length-of-the-longest-increasing-path) |
@@ -341,6 +342,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Ezharjan/MyLeetCode/tree/master/1622-fancy-sequence) |
+| [2286-booking-concert-tickets-in-groups](https://github.com/Ezharjan/MyLeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Ezharjan/MyLeetCode/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
@@ -416,6 +418,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2286-booking-concert-tickets-in-groups](https://github.com/Ezharjan/MyLeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3245-alternating-groups-iii](https://github.com/Ezharjan/MyLeetCode/tree/master/3245-alternating-groups-iii) |
 ## Queue
@@ -439,6 +442,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Ezharjan/MyLeetCode/tree/master/1622-fancy-sequence) |
+| [2286-booking-concert-tickets-in-groups](https://github.com/Ezharjan/MyLeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 ## Suffix Array
 |  |
 | ------- |
