@@ -29,6 +29,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0070-climbing-stairs](https://github.com/Ezharjan/MyLeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 | [1622-fancy-sequence](https://github.com/Ezharjan/MyLeetCode/tree/master/1622-fancy-sequence) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
@@ -81,6 +82,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3139-minimum-cost-to-equalize-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3139-minimum-cost-to-equalize-array) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
@@ -193,6 +195,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ezharjan/MyLeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Ezharjan/MyLeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
@@ -218,6 +221,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0136-single-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Ezharjan/MyLeetCode/tree/master/0832-flipping-an-image) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 ## Sliding Window
@@ -364,11 +368,13 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
