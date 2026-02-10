@@ -98,6 +98,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3637-trionic-array-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3664-two-letter-card-game](https://github.com/Ezharjan/MyLeetCode/tree/master/3664-two-letter-card-game) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3743-maximize-cyclic-partition-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3743-maximize-cyclic-partition-score) |
@@ -118,6 +119,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3664-two-letter-card-game](https://github.com/Ezharjan/MyLeetCode/tree/master/3664-two-letter-card-game) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Ezharjan/MyLeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
@@ -152,6 +154,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/Ezharjan/MyLeetCode/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3664-two-letter-card-game](https://github.com/Ezharjan/MyLeetCode/tree/master/3664-two-letter-card-game) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Ezharjan/MyLeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Trie
 |  |
@@ -330,6 +333,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3139-minimum-cost-to-equalize-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3139-minimum-cost-to-equalize-array) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
+| [3664-two-letter-card-game](https://github.com/Ezharjan/MyLeetCode/tree/master/3664-two-letter-card-game) |
 ## Segment Tree
 |  |
 | ------- |
@@ -361,6 +365,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3664-two-letter-card-game](https://github.com/Ezharjan/MyLeetCode/tree/master/3664-two-letter-card-game) |
 ## Backtracking
 |  |
 | ------- |
