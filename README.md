@@ -96,6 +96,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3379-transformed-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3379-transformed-array) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Ezharjan/MyLeetCode/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
@@ -159,6 +160,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Ezharjan/MyLeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/Ezharjan/MyLeetCode/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
@@ -202,6 +204,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 ## Sorting
 |  |
@@ -359,6 +362,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2286-booking-concert-tickets-in-groups](https://github.com/Ezharjan/MyLeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Ezharjan/MyLeetCode/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
