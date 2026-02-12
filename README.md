@@ -35,6 +35,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Ezharjan/MyLeetCode/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
+| [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
@@ -100,6 +101,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Ezharjan/MyLeetCode/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
+| [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3637-trionic-array-i) |
@@ -207,6 +209,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3288-length-of-the-longest-increasing-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 ## Sorting
 |  |
@@ -252,6 +255,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
+| [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Ezharjan/MyLeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Matrix
@@ -367,6 +371,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Ezharjan/MyLeetCode/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
+| [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
@@ -390,6 +395,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Ezharjan/MyLeetCode/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
+| [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
 ## Counting
 |  |
 | ------- |
