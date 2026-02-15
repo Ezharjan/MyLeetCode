@@ -82,6 +82,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ezharjan/MyLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
+| [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ezharjan/MyLeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -134,6 +135,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0349-intersection-of-two-arrays](https://github.com/Ezharjan/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0929-unique-email-addresses](https://github.com/Ezharjan/MyLeetCode/tree/master/0929-unique-email-addresses) |
 | [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
+| [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Ezharjan/MyLeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -262,6 +264,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ezharjan/MyLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ezharjan/MyLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -354,6 +357,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0799-champagne-tower](https://github.com/Ezharjan/MyLeetCode/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ezharjan/MyLeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
