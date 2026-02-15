@@ -32,6 +32,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
@@ -99,6 +100,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Ezharjan/MyLeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3379-transformed-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3379-transformed-array) |
@@ -133,6 +135,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0929-unique-email-addresses](https://github.com/Ezharjan/MyLeetCode/tree/master/0929-unique-email-addresses) |
 | [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Ezharjan/MyLeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
@@ -222,6 +225,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -407,6 +411,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -415,6 +420,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -423,6 +429,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Ezharjan/MyLeetCode/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
@@ -430,6 +437,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Counting
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3664-two-letter-card-game](https://github.com/Ezharjan/MyLeetCode/tree/master/3664-two-letter-card-game) |
 | [3713-longest-balanced-substring-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3713-longest-balanced-substring-i) |
