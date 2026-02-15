@@ -189,6 +189,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/Ezharjan/MyLeetCode/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3664-two-letter-card-game](https://github.com/Ezharjan/MyLeetCode/tree/master/3664-two-letter-card-game) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ezharjan/MyLeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -263,6 +264,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Ezharjan/MyLeetCode/tree/master/3435-frequencies-of-shortest-supersequences) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 ## Sliding Window
 |  |
@@ -381,6 +383,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/Ezharjan/MyLeetCode/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3640-trionic-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
@@ -391,6 +394,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ezharjan/MyLeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Ezharjan/MyLeetCode/tree/master/3435-frequencies-of-shortest-supersequences) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ezharjan/MyLeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -500,6 +504,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/3615-longest-palindromic-path-in-graph) |
 ## Union-Find
 |  |
 | ------- |
