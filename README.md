@@ -94,6 +94,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3139-minimum-cost-to-equalize-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3139-minimum-cost-to-equalize-array) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3181-maximum-total-reward-using-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3213-construct-string-with-minimum-cost](https://github.com/Ezharjan/MyLeetCode/tree/master/3213-construct-string-with-minimum-cost) |
 | [3245-alternating-groups-iii](https://github.com/Ezharjan/MyLeetCode/tree/master/3245-alternating-groups-iii) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
@@ -261,6 +262,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Ezharjan/MyLeetCode/tree/master/0832-flipping-an-image) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3181-maximum-total-reward-using-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Ezharjan/MyLeetCode/tree/master/3435-frequencies-of-shortest-supersequences) |
@@ -373,6 +375,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3181-maximum-total-reward-using-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3213-construct-string-with-minimum-cost](https://github.com/Ezharjan/MyLeetCode/tree/master/3213-construct-string-with-minimum-cost) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
