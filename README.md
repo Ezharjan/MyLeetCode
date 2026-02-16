@@ -119,6 +119,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3636-threshold-majority-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3636-threshold-majority-queries) |
 | [3637-trionic-array-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -150,6 +151,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3636-threshold-majority-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3636-threshold-majority-queries) |
 | [3664-two-letter-card-game](https://github.com/Ezharjan/MyLeetCode/tree/master/3664-two-letter-card-game) |
 | [3713-longest-balanced-substring-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3714-longest-balanced-substring-ii) |
@@ -242,6 +244,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
+| [3636-threshold-majority-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3636-threshold-majority-queries) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 ## Sorting
 |  |
@@ -362,6 +365,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0004-median-of-two-sorted-arrays](https://github.com/Ezharjan/MyLeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3636-threshold-majority-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3636-threshold-majority-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
@@ -444,6 +448,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3636-threshold-majority-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3636-threshold-majority-queries) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -470,6 +475,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3636-threshold-majority-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3636-threshold-majority-queries) |
 | [3664-two-letter-card-game](https://github.com/Ezharjan/MyLeetCode/tree/master/3664-two-letter-card-game) |
 | [3713-longest-balanced-substring-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Backtracking
