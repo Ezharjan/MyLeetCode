@@ -114,6 +114,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Ezharjan/MyLeetCode/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
@@ -148,6 +149,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3664-two-letter-card-game](https://github.com/Ezharjan/MyLeetCode/tree/master/3664-two-letter-card-game) |
 | [3713-longest-balanced-substring-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3714-longest-balanced-substring-ii) |
@@ -304,6 +306,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0832-flipping-an-image](https://github.com/Ezharjan/MyLeetCode/tree/master/0832-flipping-an-image) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Depth-First Search
 |  |
@@ -413,6 +416,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Ezharjan/MyLeetCode/tree/master/3435-frequencies-of-shortest-supersequences) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3664-two-letter-card-game](https://github.com/Ezharjan/MyLeetCode/tree/master/3664-two-letter-card-game) |
 | [3713-longest-balanced-substring-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -437,6 +441,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
