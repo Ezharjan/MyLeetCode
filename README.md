@@ -103,6 +103,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3213-construct-string-with-minimum-cost](https://github.com/Ezharjan/MyLeetCode/tree/master/3213-construct-string-with-minimum-cost) |
 | [3245-alternating-groups-iii](https://github.com/Ezharjan/MyLeetCode/tree/master/3245-alternating-groups-iii) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3287-find-the-maximum-sequence-value-of-array) |
@@ -192,6 +193,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3213-construct-string-with-minimum-cost](https://github.com/Ezharjan/MyLeetCode/tree/master/3213-construct-string-with-minimum-cost) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Ezharjan/MyLeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -250,6 +252,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -302,6 +305,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
@@ -476,6 +480,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
+| [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3425-longest-special-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3425-longest-special-path) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
