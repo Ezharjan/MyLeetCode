@@ -35,6 +35,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ezharjan/MyLeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -114,6 +115,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Ezharjan/MyLeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3379-transformed-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3379-transformed-array) |
+| [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Ezharjan/MyLeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
@@ -280,6 +282,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3288-length-of-the-longest-increasing-path) |
+| [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ezharjan/MyLeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bit Manipulation
@@ -472,6 +475,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
+| [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Ezharjan/MyLeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Ezharjan/MyLeetCode/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
@@ -578,6 +582,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3245-alternating-groups-iii](https://github.com/Ezharjan/MyLeetCode/tree/master/3245-alternating-groups-iii) |
+| [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 ## Queue
 |  |
 | ------- |
@@ -621,5 +626,6 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Geometry
 |  |
 | ------- |
+| [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ezharjan/MyLeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
