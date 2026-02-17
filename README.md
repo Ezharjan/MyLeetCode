@@ -40,6 +40,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Ezharjan/MyLeetCode/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ezharjan/MyLeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
@@ -275,6 +276,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Ezharjan/MyLeetCode/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/3615-longest-palindromic-path-in-graph) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 ## Sliding Window
 |  |
@@ -399,6 +401,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/Ezharjan/MyLeetCode/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/3615-longest-palindromic-path-in-graph) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3640-trionic-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
@@ -463,6 +466,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Number Theory
 |  |
 | ------- |
