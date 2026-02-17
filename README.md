@@ -29,6 +29,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0070-climbing-stairs](https://github.com/Ezharjan/MyLeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 | [1622-fancy-sequence](https://github.com/Ezharjan/MyLeetCode/tree/master/1622-fancy-sequence) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
@@ -83,6 +84,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ezharjan/MyLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
@@ -240,6 +242,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0349-intersection-of-two-arrays](https://github.com/Ezharjan/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ezharjan/MyLeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Ezharjan/MyLeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -264,6 +267,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1200-minimum-absolute-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ezharjan/MyLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -302,6 +306,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0605-can-place-flowers](https://github.com/Ezharjan/MyLeetCode/tree/master/0605-can-place-flowers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3139-minimum-cost-to-equalize-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3139-minimum-cost-to-equalize-array) |
