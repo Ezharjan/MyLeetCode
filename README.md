@@ -141,6 +141,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3721-longest-balanced-subarray-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3743-maximize-cyclic-partition-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3743-maximize-cyclic-partition-score) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
+| [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -344,6 +345,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -441,6 +443,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3743-maximize-cyclic-partition-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3743-maximize-cyclic-partition-score) |
+| [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -498,6 +501,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3714-longest-balanced-substring-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 ## Combinatorics
 |  |
 | ------- |
