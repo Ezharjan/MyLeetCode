@@ -457,6 +457,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ezharjan/MyLeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Ezharjan/MyLeetCode/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ezharjan/MyLeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -499,6 +500,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Prefix Sum
 |  |
 | ------- |
+| [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
