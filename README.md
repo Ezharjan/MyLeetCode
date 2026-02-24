@@ -212,6 +212,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Ezharjan/MyLeetCode/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3441-minimum-cost-good-caption](https://github.com/Ezharjan/MyLeetCode/tree/master/3441-minimum-cost-good-caption) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/Ezharjan/MyLeetCode/tree/master/3448-count-substrings-divisible-by-last-digit) |
+| [3455-shortest-matching-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/3455-shortest-matching-substring) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/Ezharjan/MyLeetCode/tree/master/3485-longest-common-prefix-of-k-strings-after-removal) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -249,6 +250,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1089-duplicate-zeros](https://github.com/Ezharjan/MyLeetCode/tree/master/1089-duplicate-zeros) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3455-shortest-matching-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/3455-shortest-matching-substring) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 ## Binary Search
 |  |
@@ -272,6 +274,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3398-smallest-substring-with-identical-characters-i) |
+| [3455-shortest-matching-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/3455-shortest-matching-substring) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ezharjan/MyLeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
@@ -560,6 +563,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ezharjan/MyLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
+| [3455-shortest-matching-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/3455-shortest-matching-substring) |
 ## Stack
 |  |
 | ------- |
