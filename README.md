@@ -121,6 +121,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Ezharjan/MyLeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3425-longest-special-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3425-longest-special-path) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Ezharjan/MyLeetCode/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ezharjan/MyLeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -325,6 +326,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
@@ -497,6 +499,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Ezharjan/MyLeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Ezharjan/MyLeetCode/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
@@ -565,6 +568,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ezharjan/MyLeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Ezharjan/MyLeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Tree
 |  |
@@ -611,16 +615,19 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Ezharjan/MyLeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search Tree
 |  |
 | ------- |
