@@ -33,6 +33,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -108,6 +109,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3213-construct-string-with-minimum-cost](https://github.com/Ezharjan/MyLeetCode/tree/master/3213-construct-string-with-minimum-cost) |
 | [3245-alternating-groups-iii](https://github.com/Ezharjan/MyLeetCode/tree/master/3245-alternating-groups-iii) |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
@@ -450,6 +452,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3213-construct-string-with-minimum-cost](https://github.com/Ezharjan/MyLeetCode/tree/master/3213-construct-string-with-minimum-cost) |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -521,6 +524,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3425-longest-special-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3425-longest-special-path) |
@@ -535,6 +539,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
