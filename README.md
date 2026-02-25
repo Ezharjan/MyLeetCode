@@ -99,6 +99,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ezharjan/MyLeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -284,6 +285,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Ezharjan/MyLeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -469,6 +471,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Ezharjan/MyLeetCode/tree/master/3098-find-the-sum-of-subsequence-powers) |
@@ -533,6 +536,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1622-fancy-sequence](https://github.com/Ezharjan/MyLeetCode/tree/master/1622-fancy-sequence) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Ezharjan/MyLeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
@@ -656,6 +660,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Ezharjan/MyLeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3245-alternating-groups-iii](https://github.com/Ezharjan/MyLeetCode/tree/master/3245-alternating-groups-iii) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
