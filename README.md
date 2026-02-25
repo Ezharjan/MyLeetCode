@@ -34,6 +34,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Ezharjan/MyLeetCode/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -115,6 +116,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3213-construct-string-with-minimum-cost](https://github.com/Ezharjan/MyLeetCode/tree/master/3213-construct-string-with-minimum-cost) |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Ezharjan/MyLeetCode/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3245-alternating-groups-iii](https://github.com/Ezharjan/MyLeetCode/tree/master/3245-alternating-groups-iii) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
@@ -394,6 +396,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0110-balanced-binary-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/0110-balanced-binary-tree) |
 | [0733-flood-fill](https://github.com/Ezharjan/MyLeetCode/tree/master/0733-flood-fill) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Ezharjan/MyLeetCode/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Ezharjan/MyLeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3425-longest-special-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3425-longest-special-path) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
@@ -404,6 +407,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0733-flood-fill](https://github.com/Ezharjan/MyLeetCode/tree/master/0733-flood-fill) |
 | [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Ezharjan/MyLeetCode/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ezharjan/MyLeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Simulation
 |  |
@@ -645,6 +649,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Ezharjan/MyLeetCode/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ezharjan/MyLeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Indexed Tree
 |  |
@@ -702,6 +707,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Geometry
 |  |
 | ------- |
+| [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Ezharjan/MyLeetCode/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ezharjan/MyLeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Bucket Sort
