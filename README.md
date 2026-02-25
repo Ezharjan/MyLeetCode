@@ -51,6 +51,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ezharjan/MyLeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 ## Recursion
 |  |
@@ -480,6 +481,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3743-maximize-cyclic-partition-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3743-maximize-cyclic-partition-score) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 ## Graph Theory
 |  |
