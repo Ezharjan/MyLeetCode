@@ -1,4 +1,4 @@
-# Demystifying Frequencies of Shortest Supersequences A Friendly Walkthrough [#3435]
+# Demystifying Frequencies of Shortest Supersequences: A Friendly Walkthrough [#3435]
 
 Hello everyone! Welcome to another coding journey. Today I am thrilled to share my thoughts and a detailed guide on an incredibly fascinating string and graph theory problem. We are going to explore how to find the frequencies of characters in the shortest common supersequences. 
 
