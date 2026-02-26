@@ -42,6 +42,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3352-count-k-reducible-numbers-less-than-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3352-count-k-reducible-numbers-less-than-n) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
@@ -263,6 +264,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Ezharjan/MyLeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3352-count-k-reducible-numbers-less-than-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3352-count-k-reducible-numbers-less-than-n) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/Ezharjan/MyLeetCode/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Ezharjan/MyLeetCode/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3441-minimum-cost-good-caption](https://github.com/Ezharjan/MyLeetCode/tree/master/3441-minimum-cost-good-caption) |
@@ -562,6 +564,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
+| [3352-count-k-reducible-numbers-less-than-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3352-count-k-reducible-numbers-less-than-n) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/Ezharjan/MyLeetCode/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Ezharjan/MyLeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3441-minimum-cost-good-caption](https://github.com/Ezharjan/MyLeetCode/tree/master/3441-minimum-cost-good-caption) |
@@ -670,6 +673,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3352-count-k-reducible-numbers-less-than-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3352-count-k-reducible-numbers-less-than-n) |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
