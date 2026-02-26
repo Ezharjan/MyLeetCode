@@ -119,6 +119,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3213-construct-string-with-minimum-cost](https://github.com/Ezharjan/MyLeetCode/tree/master/3213-construct-string-with-minimum-cost) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Ezharjan/MyLeetCode/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3245-alternating-groups-iii](https://github.com/Ezharjan/MyLeetCode/tree/master/3245-alternating-groups-iii) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
@@ -389,6 +390,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3139-minimum-cost-to-equalize-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3139-minimum-cost-to-equalize-array) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
@@ -462,6 +464,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0220-contains-duplicate-iii](https://github.com/Ezharjan/MyLeetCode/tree/master/0220-contains-duplicate-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3245-alternating-groups-iii](https://github.com/Ezharjan/MyLeetCode/tree/master/3245-alternating-groups-iii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ezharjan/MyLeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -534,6 +537,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ezharjan/MyLeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Ezharjan/MyLeetCode/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/3615-longest-palindromic-path-in-graph) |
