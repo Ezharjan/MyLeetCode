@@ -1,4 +1,4 @@
-# Solving the Empty Rectangle Puzzle with Point Constraints A Friendly Guide [#3382]
+# Solving the Empty Rectangle Puzzle with Point Constraints [#3382]
 
 Hello everyone! Today I would like to share a walkthrough of a very interesting computational geometry puzzle. If you enjoy visualizing points on a grid and combining different algorithmic concepts, this one is a real treat. We are going to break down the problem, explore the underlying concepts, and build a working C++ solution together. 
 
