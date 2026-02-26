@@ -178,6 +178,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3743-maximize-cyclic-partition-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3743-maximize-cyclic-partition-score) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
@@ -217,6 +218,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3714-longest-balanced-substring-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Ezharjan/MyLeetCode/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## String
 |  |
@@ -644,6 +646,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3714-longest-balanced-substring-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
 ## Combinatorics
 |  |
