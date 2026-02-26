@@ -1,4 +1,4 @@
-# Unlocking the Secrets of Array Peaks and Fast Range Queries A Comprehensive Guide [#3187]
+# Unlocking the Secrets of Array Peaks and Fast Range Queries [#3187]
 
 Hello friends and fellow coding enthusiasts! Today we are going straight into an incredibly fascinating computer science puzzle. We will be exploring a problem that asks us to identify peaks in an array and maintain our counts while the array is constantly changing. We will walk through the logic step by step so that everyone from beginners to experienced programmers can follow along and add a wonderful new technique to their toolkit. 
 
