@@ -45,6 +45,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3395-subsequences-with-a-unique-middle-mode-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3395-subsequences-with-a-unique-middle-mode-i) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ezharjan/MyLeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -150,6 +151,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3425-longest-special-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3425-longest-special-path) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Ezharjan/MyLeetCode/tree/master/3435-frequencies-of-shortest-supersequences) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3449-maximize-the-minimum-game-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3449-maximize-the-minimum-game-score) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ezharjan/MyLeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/Ezharjan/MyLeetCode/tree/master/3485-longest-common-prefix-of-k-strings-after-removal) |
@@ -378,6 +380,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Ezharjan/MyLeetCode/tree/master/3435-frequencies-of-shortest-supersequences) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/3615-longest-palindromic-path-in-graph) |
@@ -541,6 +544,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/Ezharjan/MyLeetCode/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Ezharjan/MyLeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3441-minimum-cost-good-caption](https://github.com/Ezharjan/MyLeetCode/tree/master/3441-minimum-cost-good-caption) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/Ezharjan/MyLeetCode/tree/master/3448-count-substrings-divisible-by-last-digit) |
 | [3490-count-beautiful-numbers](https://github.com/Ezharjan/MyLeetCode/tree/master/3490-count-beautiful-numbers) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
@@ -651,6 +655,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3463-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3463-check-if-digits-are-equal-in-string-after-operations-ii) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Ezharjan/MyLeetCode/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3574-maximize-subarray-gcd-score) |
@@ -718,6 +723,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Ezharjan/MyLeetCode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/3615-longest-palindromic-path-in-graph) |
 ## Union-Find
 |  |
