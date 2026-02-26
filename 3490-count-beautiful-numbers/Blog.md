@@ -1,4 +1,4 @@
-# Unlocking the Mystery of Divisible Digit Products and Sums A Friendly Guide [#3490]
+# Unlocking the Mystery of Divisible Digit Products and Sums [#3490]
 
 Hello fellow developers and programming enthusiasts! Today I want to share my journey and thoughts on a truly fascinating algorithmic puzzle. We are going to look into a challenge where we need to count specific numbers based on the relationship between their digits. 
 
