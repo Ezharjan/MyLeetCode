@@ -1,4 +1,4 @@
-# Unlocking the Maximum Sequence Value Array Challenge A Friendly Community Guide [#3287]
+# Unlocking the Maximum Sequence Value Array Challenge [#3287]
 
 Hello fellow developers and programming enthusiasts! Welcome to another detailed walkthrough where we untangle interesting coding puzzles together. Today, I wanted to share my thoughts and a reliable approach for solving a fascinating array problem. Sometimes, when a challenge involves picking subsequences and performing bitwise operations, it can feel a bit overwhelming at first glance. However, once we break the logic down into smaller and more digestible pieces, the path forward becomes clear and deeply rewarding. Let us explore the Maximum Sequence Value Array problem step by step!
 
