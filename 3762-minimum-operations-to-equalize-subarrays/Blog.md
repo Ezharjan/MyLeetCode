@@ -1,4 +1,4 @@
-# Equalizing Subarrays with Minimum Operations A Deep Dive into Range Queries [#3762]
+# Equalizing Subarrays with Minimum Operations: A Deep Dive into Range Queries [#3762]
 
 Welcome fellow coders! Today I want to share a fascinating problem involving arrays, modular arithmetic, and efficient range queries. If you have ever wondered how to efficiently manipulate subarrays to make all elements equal, or if you are looking to deepen your understanding of Persistent Segment Trees, this post is for you.
 
