@@ -1,4 +1,4 @@
-# Gathering Ones to Win the Game A Friendly Guide to Minimizing Moves [#3086]
+# Gathering Ones to Win the Game: A Friendly Guide to Minimizing Moves [#3086]
 
 Welcome everyone! Today, I am really excited to share my thoughts on a fascinating array puzzle that I recently spent some time studying. It is a wonderful exercise in logical deduction, careful observation, and applying sliding window techniques. We will walk through it together, breaking down the logic step by step so that everyone, regardless of their programming experience level, can understand the thought process and learn how to solve it. 
 
