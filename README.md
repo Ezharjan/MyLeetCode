@@ -33,6 +33,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2117-abbreviating-the-product-of-a-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [2851-string-transformation](https://github.com/Ezharjan/MyLeetCode/tree/master/2851-string-transformation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Ezharjan/MyLeetCode/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
@@ -227,6 +228,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ezharjan/MyLeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Ezharjan/MyLeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2156-find-substring-with-given-hash-value](https://github.com/Ezharjan/MyLeetCode/tree/master/2156-find-substring-with-given-hash-value) |
+| [2851-string-transformation](https://github.com/Ezharjan/MyLeetCode/tree/master/2851-string-transformation) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ezharjan/MyLeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2983-palindrome-rearrangement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/2983-palindrome-rearrangement-queries) |
@@ -500,6 +502,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2407-longest-increasing-subsequence-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [2851-string-transformation](https://github.com/Ezharjan/MyLeetCode/tree/master/2851-string-transformation) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2926-maximum-balanced-subsequence-sum) |
@@ -647,6 +650,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ezharjan/MyLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2851-string-transformation](https://github.com/Ezharjan/MyLeetCode/tree/master/2851-string-transformation) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 | [3455-shortest-matching-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/3455-shortest-matching-substring) |
