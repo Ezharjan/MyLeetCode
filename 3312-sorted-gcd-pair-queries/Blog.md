@@ -1,4 +1,4 @@
-# Unraveling the Sorted GCD Pair Queries Mystery A Friendly Guide [#3312]
+# Unraveling the Sorted GCD Pair Queries Mystery: A Friendly Guide [#3312]
 
 Hello everyone! Welcome to my coding journal. Today we are going to explore a fascinating programming challenge together. It is about finding specific greatest common divisors from a massive list of pairs. I am excited to share what I have learned with the community. Let us jump right in and learn step by step!
 
