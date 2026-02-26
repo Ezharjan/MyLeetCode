@@ -251,6 +251,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Ezharjan/MyLeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2156-find-substring-with-given-hash-value](https://github.com/Ezharjan/MyLeetCode/tree/master/2156-find-substring-with-given-hash-value) |
 | [2157-groups-of-strings](https://github.com/Ezharjan/MyLeetCode/tree/master/2157-groups-of-strings) |
+| [2801-count-stepping-numbers-in-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2801-count-stepping-numbers-in-range) |
 | [2851-string-transformation](https://github.com/Ezharjan/MyLeetCode/tree/master/2851-string-transformation) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ezharjan/MyLeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -539,6 +540,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
+| [2801-count-stepping-numbers-in-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2801-count-stepping-numbers-in-range) |
 | [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/Ezharjan/MyLeetCode/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2851-string-transformation](https://github.com/Ezharjan/MyLeetCode/tree/master/2851-string-transformation) |
