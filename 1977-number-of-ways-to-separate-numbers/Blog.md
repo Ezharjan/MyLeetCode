@@ -1,4 +1,4 @@
-# Mastering the String Partition Puzzle A Guide to Separating Numbers Strictly Increasing [#1977]
+# Mastering the String Partition Puzzle: A Guide to Separating Numbers Strictly Increasing [#1977]
 
 Hello everyone in the coding community! Today I want to share my thoughts on a fascinating string parsing puzzle. It is a problem that tests our ability to organize data, look for patterns, and build a solution step by step using dynamic programming. I recently spent some time studying this challenge, and I would love to walk you through a working approach. 
 
