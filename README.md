@@ -157,6 +157,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ezharjan/MyLeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/Ezharjan/MyLeetCode/tree/master/3485-longest-common-prefix-of-k-strings-after-removal) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
+| [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -552,6 +553,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3444-minimum-increments-for-target-multiples-in-an-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3444-minimum-increments-for-target-multiples-in-an-array) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/Ezharjan/MyLeetCode/tree/master/3448-count-substrings-divisible-by-last-digit) |
 | [3490-count-beautiful-numbers](https://github.com/Ezharjan/MyLeetCode/tree/master/3490-count-beautiful-numbers) |
+| [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -636,6 +638,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3425-longest-special-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3425-longest-special-path) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
+| [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3636-threshold-majority-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3636-threshold-majority-queries) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3714-longest-balanced-substring-ii) |
