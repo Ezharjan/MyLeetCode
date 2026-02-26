@@ -1,4 +1,4 @@
-# Cracking the Puzzle of Counting Substrings Divisible by Their Last Digit A Comprehensive and Friendly Guide [#3448]
+# Cracking the Puzzle of Counting Substrings Divisible by Their Last Digit [#3448]
 
 Hello everyone! Welcome to another deep dive into the fascinating world of string processing and algorithmic problem solving. Today, I would like to share my thoughts and a detailed walkthrough for a very interesting counting puzzle. I really enjoy exploring these types of questions because they teach us how to think about combinations, sequences, and large numbers without getting lost in the massive scale of the data. 
 
