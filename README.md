@@ -127,6 +127,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3187-peaks-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3187-peaks-in-array) |
 | [3213-construct-string-with-minimum-cost](https://github.com/Ezharjan/MyLeetCode/tree/master/3213-construct-string-with-minimum-cost) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Ezharjan/MyLeetCode/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3245-alternating-groups-iii](https://github.com/Ezharjan/MyLeetCode/tree/master/3245-alternating-groups-iii) |
@@ -437,6 +438,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0733-flood-fill](https://github.com/Ezharjan/MyLeetCode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Ezharjan/MyLeetCode/tree/master/0832-flipping-an-image) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3257-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3257-maximum-value-sum-by-placing-three-rooks-ii) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -542,6 +544,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3213-construct-string-with-minimum-cost](https://github.com/Ezharjan/MyLeetCode/tree/master/3213-construct-string-with-minimum-cost) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3257-maximum-value-sum-by-placing-three-rooks-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3257-maximum-value-sum-by-placing-three-rooks-ii) |
@@ -635,6 +638,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
