@@ -1,4 +1,4 @@
-# Unlocking the Maximum Total Reward Puzzle A Friendly Guide to Bitsets [#3181]
+# Unlocking the Maximum Total Reward Puzzle: A Friendly Guide to Bitsets [#3181]
 
 Hello everyone! Welcome to my latest technical deep dive. Today, I want to share my journey solving a truly fascinating algorithm puzzle. When I first encountered this challenge, it took me quite some time to wrap my head around the core logic. After breaking it down piece by piece, I found a workable and practical approach that I am very excited to share with you all. I thought writing down a thorough, step by step guide might help others in the community who might be feeling stuck or overwhelmed. 
 
