@@ -1,4 +1,4 @@
-# Demystifying the Stable Binary Arrays Puzzle A Comprehensive Walkthrough [#3130]
+# Demystifying the Stable Binary Arrays Puzzle [#3130]
 
 Hello everyone! Welcome to another problem solving journey. Today we are diving into an incredibly interesting algorithmic challenge involving binary arrays. We will explore how to construct sequences of zeros and ones under some very specific and intriguing rules. 
 
