@@ -1,4 +1,4 @@
-# Finding Subsequences with a Unique Middle Mode A Combinatorics Approach [#3395]
+# Finding Subsequences with a Unique Middle Mode [#3395]
 
 Hello fellow coders! Today I wanted to share a comprehensive guide on a fascinating array puzzle that tests our understanding of combinatorics and frequency counting. Let us learn together and unpack this challenge step by step. 
 
