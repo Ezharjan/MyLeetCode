@@ -1,4 +1,4 @@
-# Unraveling Tree Paths A Friendly Guide to the Longest Special Path Problem [#3425]
+# Unraveling Tree Paths: A Friendly Guide to the Longest Special Path Problem [#3425]
 
 Hello everyone! Today I want to share my thoughts and a detailed approach to solving a fascinating tree problem. If you enjoy traversing trees and keeping track of paths, you will likely find this challenge quite rewarding. We are going to explore a reliable way to solve it together, step by step, without rushing through the details. 
 
