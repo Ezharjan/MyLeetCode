@@ -1,4 +1,4 @@
-# Mastering the Sum of Squares of Distinct Subarray Elements A Thorough Guide [#2916]
+# Mastering the Sum of Squares of Distinct Subarray Elements [#2916]
 
 Hello everyone! Welcome back to another algorithm exploration. I recently came across a fascinating array challenge that requires a clever mix of mathematical observation and advanced data structures. I want to share my findings and walk you through a viable method to solve it. My goal is to break down the complex parts into easily digestible pieces so that we can all learn and grow together. Let us dive right into the details!
 
