@@ -29,6 +29,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0070-climbing-stairs](https://github.com/Ezharjan/MyLeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ezharjan/MyLeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0805-split-array-with-same-average](https://github.com/Ezharjan/MyLeetCode/tree/master/0805-split-array-with-same-average) |
 | [1622-fancy-sequence](https://github.com/Ezharjan/MyLeetCode/tree/master/1622-fancy-sequence) |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
@@ -88,6 +89,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0661-image-smoother](https://github.com/Ezharjan/MyLeetCode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Ezharjan/MyLeetCode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ezharjan/MyLeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0805-split-array-with-same-average](https://github.com/Ezharjan/MyLeetCode/tree/master/0805-split-array-with-same-average) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ezharjan/MyLeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Ezharjan/MyLeetCode/tree/master/0832-flipping-an-image) |
 | [0929-unique-email-addresses](https://github.com/Ezharjan/MyLeetCode/tree/master/0929-unique-email-addresses) |
@@ -181,6 +183,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0219-contains-duplicate-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ezharjan/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0805-split-array-with-same-average](https://github.com/Ezharjan/MyLeetCode/tree/master/0805-split-array-with-same-average) |
 | [0929-unique-email-addresses](https://github.com/Ezharjan/MyLeetCode/tree/master/0929-unique-email-addresses) |
 | [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
@@ -358,6 +361,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0401-binary-watch](https://github.com/Ezharjan/MyLeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Ezharjan/MyLeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ezharjan/MyLeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0805-split-array-with-same-average](https://github.com/Ezharjan/MyLeetCode/tree/master/0805-split-array-with-same-average) |
 | [0832-flipping-an-image](https://github.com/Ezharjan/MyLeetCode/tree/master/0832-flipping-an-image) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -499,6 +503,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0516-longest-palindromic-subsequence](https://github.com/Ezharjan/MyLeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Ezharjan/MyLeetCode/tree/master/0647-palindromic-substrings) |
 | [0799-champagne-tower](https://github.com/Ezharjan/MyLeetCode/tree/master/0799-champagne-tower) |
+| [0805-split-array-with-same-average](https://github.com/Ezharjan/MyLeetCode/tree/master/0805-split-array-with-same-average) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ezharjan/MyLeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Ezharjan/MyLeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -695,6 +700,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Bitmask
 |  |
 | ------- |
+| [0805-split-array-with-same-average](https://github.com/Ezharjan/MyLeetCode/tree/master/0805-split-array-with-same-average) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Ezharjan/MyLeetCode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3276-select-cells-in-grid-with-maximum-score) |
