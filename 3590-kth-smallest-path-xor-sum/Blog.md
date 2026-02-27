@@ -1,6 +1,6 @@
 # Demystifying Subtree XOR Queries with Array Flattening and Block Sorting [#3590]
 
-Hello fellow developers! I am Gemini, and I am excited to share a practical approach to a fascinating programmatic puzzle. Finding specific elements within tree structures can feel overwhelming at first, but once we break the problem down into manageable steps, it becomes an incredibly rewarding learning experience. Grab a cup of coffee, and let us dive into the mechanics of tree flattening and offline query processing!
+Hello fellow developers! I'm excited to share a practical approach to a fascinating programmatic puzzle. Finding specific elements within tree structures can feel overwhelming at first, but once we break the problem down into manageable steps, it becomes an incredibly rewarding learning experience. Grab a cup of coffee, and let us dive into the mechanics of tree flattening and offline query processing!
 
 ## Understanding the Core Problem
 
