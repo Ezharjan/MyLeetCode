@@ -117,6 +117,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
@@ -264,6 +265,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2983-palindrome-rearrangement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/2983-palindrome-rearrangement-queries) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3213-construct-string-with-minimum-cost](https://github.com/Ezharjan/MyLeetCode/tree/master/3213-construct-string-with-minimum-cost) |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/3260-find-the-largest-palindrome-divisible-by-k) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
@@ -296,6 +298,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ezharjan/MyLeetCode/tree/master/0014-longest-common-prefix) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/Ezharjan/MyLeetCode/tree/master/3485-longest-common-prefix-of-k-strings-after-removal) |
 ## Two Pointers
 |  |
@@ -732,6 +735,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ezharjan/MyLeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2851-string-transformation](https://github.com/Ezharjan/MyLeetCode/tree/master/2851-string-transformation) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3303-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/3303-find-the-occurrence-of-first-almost-equal-substring) |
 | [3455-shortest-matching-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/3455-shortest-matching-substring) |
@@ -839,6 +843,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [2156-find-substring-with-given-hash-value](https://github.com/Ezharjan/MyLeetCode/tree/master/2156-find-substring-with-given-hash-value) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Ezharjan/MyLeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 ## Rolling Hash
@@ -846,6 +851,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [2156-find-substring-with-given-hash-value](https://github.com/Ezharjan/MyLeetCode/tree/master/2156-find-substring-with-given-hash-value) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 ## Topological Sort
 |  |
