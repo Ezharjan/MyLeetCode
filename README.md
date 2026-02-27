@@ -177,6 +177,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Ezharjan/MyLeetCode/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3574-maximize-subarray-gcd-score) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/3585-find-weighted-median-node-in-tree) |
+| [3590-kth-smallest-path-xor-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Ezharjan/MyLeetCode/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
@@ -491,6 +492,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3425-longest-special-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3425-longest-special-path) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/3585-find-weighted-median-node-in-tree) |
+| [3590-kth-smallest-path-xor-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/3590-kth-smallest-path-xor-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -538,6 +540,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3245-alternating-groups-iii](https://github.com/Ezharjan/MyLeetCode/tree/master/3245-alternating-groups-iii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3590-kth-smallest-path-xor-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Ezharjan/MyLeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Divide and Conquer
 |  |
@@ -778,6 +781,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3425-longest-special-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3425-longest-special-path) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/3585-find-weighted-median-node-in-tree) |
+| [3590-kth-smallest-path-xor-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/3590-kth-smallest-path-xor-sum) |
 ## Binary Tree
 |  |
 | ------- |
