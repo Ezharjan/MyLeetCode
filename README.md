@@ -120,6 +120,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Ezharjan/MyLeetCode/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3139-minimum-cost-to-equalize-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3139-minimum-cost-to-equalize-array) |
 | [3145-find-products-of-elements-of-big-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3145-find-products-of-elements-of-big-array) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Ezharjan/MyLeetCode/tree/master/3149-find-the-minimum-cost-array-permutation) |
@@ -332,6 +333,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3145-find-products-of-elements-of-big-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3145-find-products-of-elements-of-big-array) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3261-count-substrings-that-satisfy-k-constraint-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3261-count-substrings-that-satisfy-k-constraint-ii) |
@@ -391,6 +393,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2157-groups-of-strings](https://github.com/Ezharjan/MyLeetCode/tree/master/2157-groups-of-strings) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3145-find-products-of-elements-of-big-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3145-find-products-of-elements-of-big-array) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Ezharjan/MyLeetCode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3181-maximum-total-reward-using-operations-ii) |
@@ -551,6 +554,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Ezharjan/MyLeetCode/tree/master/3098-find-the-sum-of-subsequence-powers) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Ezharjan/MyLeetCode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
@@ -632,6 +636,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2659-make-array-empty](https://github.com/Ezharjan/MyLeetCode/tree/master/2659-make-array-empty) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3187-peaks-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3187-peaks-in-array) |
@@ -787,6 +792,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
