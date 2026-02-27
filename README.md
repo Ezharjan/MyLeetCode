@@ -417,6 +417,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3615-longest-palindromic-path-in-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
+| [3646-next-special-palindrome-number](https://github.com/Ezharjan/MyLeetCode/tree/master/3646-next-special-palindrome-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -735,6 +736,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0126-word-ladder-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/0126-word-ladder-ii) |
 | [0401-binary-watch](https://github.com/Ezharjan/MyLeetCode/tree/master/0401-binary-watch) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3646-next-special-palindrome-number](https://github.com/Ezharjan/MyLeetCode/tree/master/3646-next-special-palindrome-number) |
 ## String Matching
 |  |
 | ------- |
