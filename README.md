@@ -103,6 +103,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1089-duplicate-zeros](https://github.com/Ezharjan/MyLeetCode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1923-longest-common-subpath](https://github.com/Ezharjan/MyLeetCode/tree/master/1923-longest-common-subpath) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ezharjan/MyLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2157-groups-of-strings](https://github.com/Ezharjan/MyLeetCode/tree/master/2157-groups-of-strings) |
@@ -345,6 +346,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ezharjan/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ezharjan/MyLeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1923-longest-common-subpath](https://github.com/Ezharjan/MyLeetCode/tree/master/1923-longest-common-subpath) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Ezharjan/MyLeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2659-make-array-empty](https://github.com/Ezharjan/MyLeetCode/tree/master/2659-make-array-empty) |
@@ -866,11 +868,13 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Suffix Array
 |  |
 | ------- |
+| [1923-longest-common-subpath](https://github.com/Ezharjan/MyLeetCode/tree/master/1923-longest-common-subpath) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Ezharjan/MyLeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [3213-construct-string-with-minimum-cost](https://github.com/Ezharjan/MyLeetCode/tree/master/3213-construct-string-with-minimum-cost) |
 ## Hash Function
 |  |
 | ------- |
+| [1923-longest-common-subpath](https://github.com/Ezharjan/MyLeetCode/tree/master/1923-longest-common-subpath) |
 | [2156-find-substring-with-given-hash-value](https://github.com/Ezharjan/MyLeetCode/tree/master/2156-find-substring-with-given-hash-value) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
@@ -879,6 +883,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Rolling Hash
 |  |
 | ------- |
+| [1923-longest-common-subpath](https://github.com/Ezharjan/MyLeetCode/tree/master/1923-longest-common-subpath) |
 | [2156-find-substring-with-given-hash-value](https://github.com/Ezharjan/MyLeetCode/tree/master/2156-find-substring-with-given-hash-value) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
