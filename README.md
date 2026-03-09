@@ -139,6 +139,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3187-peaks-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3187-peaks-in-array) |
+| [3193-count-the-number-of-inversions](https://github.com/Ezharjan/MyLeetCode/tree/master/3193-count-the-number-of-inversions) |
 | [3213-construct-string-with-minimum-cost](https://github.com/Ezharjan/MyLeetCode/tree/master/3213-construct-string-with-minimum-cost) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Ezharjan/MyLeetCode/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
@@ -599,6 +600,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3181-maximum-total-reward-using-operations-ii) |
+| [3193-count-the-number-of-inversions](https://github.com/Ezharjan/MyLeetCode/tree/master/3193-count-the-number-of-inversions) |
 | [3213-construct-string-with-minimum-cost](https://github.com/Ezharjan/MyLeetCode/tree/master/3213-construct-string-with-minimum-cost) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Ezharjan/MyLeetCode/tree/master/3241-time-taken-to-mark-all-nodes) |
