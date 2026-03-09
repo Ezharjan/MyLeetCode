@@ -31,6 +31,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ezharjan/MyLeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0805-split-array-with-same-average](https://github.com/Ezharjan/MyLeetCode/tree/master/0805-split-array-with-same-average) |
+| [0887-super-egg-drop](https://github.com/Ezharjan/MyLeetCode/tree/master/0887-super-egg-drop) |
 | [1622-fancy-sequence](https://github.com/Ezharjan/MyLeetCode/tree/master/1622-fancy-sequence) |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/Ezharjan/MyLeetCode/tree/master/2584-split-the-array-to-make-coprime-products) |
@@ -351,6 +352,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ezharjan/MyLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ezharjan/MyLeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0887-super-egg-drop](https://github.com/Ezharjan/MyLeetCode/tree/master/0887-super-egg-drop) |
 | [1923-longest-common-subpath](https://github.com/Ezharjan/MyLeetCode/tree/master/1923-longest-common-subpath) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Ezharjan/MyLeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
@@ -580,6 +582,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0647-palindromic-substrings](https://github.com/Ezharjan/MyLeetCode/tree/master/0647-palindromic-substrings) |
 | [0799-champagne-tower](https://github.com/Ezharjan/MyLeetCode/tree/master/0799-champagne-tower) |
 | [0805-split-array-with-same-average](https://github.com/Ezharjan/MyLeetCode/tree/master/0805-split-array-with-same-average) |
+| [0887-super-egg-drop](https://github.com/Ezharjan/MyLeetCode/tree/master/0887-super-egg-drop) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ezharjan/MyLeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Ezharjan/MyLeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
