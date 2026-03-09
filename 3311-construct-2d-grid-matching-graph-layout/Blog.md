@@ -1,4 +1,4 @@
-# Reconstructing a Two Dimensional Grid from a Graph A Friendly Walkthrough [#3311]
+# Reconstructing a Two Dimensional Grid from a Graph [#3311]
 
 Hello fellow coding enthusiasts and developers! Welcome to another deep dive into the fascinating world of algorithms and data structures. Today, I want to share my thoughts and a complete walkthrough for a very interesting graph problem. We will explore how to take a flattened, unstructured list of connections and magically rebuild it into a perfectly aligned two dimensional grid. 
 
