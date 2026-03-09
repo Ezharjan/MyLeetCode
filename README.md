@@ -600,6 +600,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Ezharjan/MyLeetCode/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Ezharjan/MyLeetCode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
@@ -713,6 +714,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
