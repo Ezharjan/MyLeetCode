@@ -188,6 +188,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3590-kth-smallest-path-xor-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/3590-kth-smallest-path-xor-sum) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Ezharjan/MyLeetCode/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
+| [3620-network-recovery-pathways](https://github.com/Ezharjan/MyLeetCode/tree/master/3620-network-recovery-pathways) |
 | [3630-partition-array-for-maximum-xor-and-and](https://github.com/Ezharjan/MyLeetCode/tree/master/3630-partition-array-for-maximum-xor-and-and) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3636-threshold-majority-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3636-threshold-majority-queries) |
@@ -379,6 +380,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3605-minimum-stability-factor-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3605-minimum-stability-factor-of-array) |
+| [3620-network-recovery-pathways](https://github.com/Ezharjan/MyLeetCode/tree/master/3620-network-recovery-pathways) |
 | [3636-threshold-majority-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3636-threshold-majority-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ezharjan/MyLeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
@@ -542,6 +544,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ezharjan/MyLeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Ezharjan/MyLeetCode/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3620-network-recovery-pathways](https://github.com/Ezharjan/MyLeetCode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ezharjan/MyLeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Doubly-Linked List
@@ -634,6 +637,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3585-find-weighted-median-node-in-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Ezharjan/MyLeetCode/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/3615-longest-palindromic-path-in-graph) |
+| [3620-network-recovery-pathways](https://github.com/Ezharjan/MyLeetCode/tree/master/3620-network-recovery-pathways) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3640-trionic-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ezharjan/MyLeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -656,6 +660,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Ezharjan/MyLeetCode/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/3615-longest-palindromic-path-in-graph) |
+| [3620-network-recovery-pathways](https://github.com/Ezharjan/MyLeetCode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ezharjan/MyLeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -663,6 +668,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ezharjan/MyLeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/Ezharjan/MyLeetCode/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3620-network-recovery-pathways](https://github.com/Ezharjan/MyLeetCode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ezharjan/MyLeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Enumeration
 |  |
@@ -910,6 +916,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Ezharjan/MyLeetCode/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Ezharjan/MyLeetCode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
+| [3620-network-recovery-pathways](https://github.com/Ezharjan/MyLeetCode/tree/master/3620-network-recovery-pathways) |
 ## Geometry
 |  |
 | ------- |
