@@ -1,4 +1,4 @@
-# Crushing Colored Spheres to Clear the Board A Friendly Guide to Solving the Zuma Puzzle [#488]
+# Crushing Colored Spheres to Clear the Board: A Friendly Guide to Solving the Zuma Puzzle [#488]
 
 Hello fellow problem solvers and coding enthusiasts! 
 
