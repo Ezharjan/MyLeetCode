@@ -269,6 +269,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0067-add-binary](https://github.com/Ezharjan/MyLeetCode/tree/master/0067-add-binary) |
 | [0126-word-ladder-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/0126-word-ladder-ii) |
 | [0420-strong-password-checker](https://github.com/Ezharjan/MyLeetCode/tree/master/0420-strong-password-checker) |
+| [0488-zuma-game](https://github.com/Ezharjan/MyLeetCode/tree/master/0488-zuma-game) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ezharjan/MyLeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Ezharjan/MyLeetCode/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Ezharjan/MyLeetCode/tree/master/0696-count-binary-substrings) |
@@ -525,6 +526,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [0100-same-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/0126-word-ladder-ii) |
+| [0488-zuma-game](https://github.com/Ezharjan/MyLeetCode/tree/master/0488-zuma-game) |
 | [0733-flood-fill](https://github.com/Ezharjan/MyLeetCode/tree/master/0733-flood-fill) |
 | [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
@@ -588,6 +590,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0005-longest-palindromic-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ezharjan/MyLeetCode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/Ezharjan/MyLeetCode/tree/master/0070-climbing-stairs) |
+| [0488-zuma-game](https://github.com/Ezharjan/MyLeetCode/tree/master/0488-zuma-game) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ezharjan/MyLeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Ezharjan/MyLeetCode/tree/master/0647-palindromic-substrings) |
 | [0799-champagne-tower](https://github.com/Ezharjan/MyLeetCode/tree/master/0799-champagne-tower) |
@@ -802,6 +805,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ezharjan/MyLeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ezharjan/MyLeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0488-zuma-game](https://github.com/Ezharjan/MyLeetCode/tree/master/0488-zuma-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ezharjan/MyLeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/Ezharjan/MyLeetCode/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
@@ -835,6 +839,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ezharjan/MyLeetCode/tree/master/0070-climbing-stairs) |
+| [0488-zuma-game](https://github.com/Ezharjan/MyLeetCode/tree/master/0488-zuma-game) |
 ## Bitmask
 |  |
 | ------- |
