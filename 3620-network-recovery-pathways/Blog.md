@@ -1,4 +1,4 @@
-# Finding the Best Path A Friendly Guide to Network Recovery Pathways [#3620]
+# Finding the Best Path: A Friendly Guide to Network Recovery Pathways [#3620]
 
 Hello fellow developers and algorithm enthusiasts! 
 
