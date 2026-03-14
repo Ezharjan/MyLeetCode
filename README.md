@@ -223,6 +223,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0805-split-array-with-same-average](https://github.com/Ezharjan/MyLeetCode/tree/master/0805-split-array-with-same-average) |
 | [0929-unique-email-addresses](https://github.com/Ezharjan/MyLeetCode/tree/master/0929-unique-email-addresses) |
 | [2157-groups-of-strings](https://github.com/Ezharjan/MyLeetCode/tree/master/2157-groups-of-strings) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Ezharjan/MyLeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/Ezharjan/MyLeetCode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Ezharjan/MyLeetCode/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
@@ -284,6 +285,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Ezharjan/MyLeetCode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2156-find-substring-with-given-hash-value](https://github.com/Ezharjan/MyLeetCode/tree/master/2156-find-substring-with-given-hash-value) |
 | [2157-groups-of-strings](https://github.com/Ezharjan/MyLeetCode/tree/master/2157-groups-of-strings) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Ezharjan/MyLeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2801-count-stepping-numbers-in-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2801-count-stepping-numbers-in-range) |
 | [2851-string-transformation](https://github.com/Ezharjan/MyLeetCode/tree/master/2851-string-transformation) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2949-count-beautiful-substrings-ii) |
@@ -784,6 +786,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Counting
 |  |
 | ------- |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Ezharjan/MyLeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/Ezharjan/MyLeetCode/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
