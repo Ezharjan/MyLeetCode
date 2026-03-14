@@ -228,6 +228,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Ezharjan/MyLeetCode/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2949-count-beautiful-substrings-ii) |
+| [2953-count-complete-substrings](https://github.com/Ezharjan/MyLeetCode/tree/master/2953-count-complete-substrings) |
 | [2983-palindrome-rearrangement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/2983-palindrome-rearrangement-queries) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3134-find-the-median-of-the-uniqueness-array) |
@@ -286,6 +287,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2801-count-stepping-numbers-in-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2801-count-stepping-numbers-in-range) |
 | [2851-string-transformation](https://github.com/Ezharjan/MyLeetCode/tree/master/2851-string-transformation) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2949-count-beautiful-substrings-ii) |
+| [2953-count-complete-substrings](https://github.com/Ezharjan/MyLeetCode/tree/master/2953-count-complete-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ezharjan/MyLeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2983-palindrome-rearrangement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/2983-palindrome-rearrangement-queries) |
@@ -463,6 +465,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ezharjan/MyLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2156-find-substring-with-given-hash-value](https://github.com/Ezharjan/MyLeetCode/tree/master/2156-find-substring-with-given-hash-value) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
+| [2953-count-complete-substrings](https://github.com/Ezharjan/MyLeetCode/tree/master/2953-count-complete-substrings) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3134-find-the-median-of-the-uniqueness-array) |
