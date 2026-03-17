@@ -37,6 +37,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2584-split-the-array-to-make-coprime-products](https://github.com/Ezharjan/MyLeetCode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ezharjan/MyLeetCode/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2851-string-transformation](https://github.com/Ezharjan/MyLeetCode/tree/master/2851-string-transformation) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -227,6 +228,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2584-split-the-array-to-make-coprime-products](https://github.com/Ezharjan/MyLeetCode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Ezharjan/MyLeetCode/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ezharjan/MyLeetCode/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [2953-count-complete-substrings](https://github.com/Ezharjan/MyLeetCode/tree/master/2953-count-complete-substrings) |
@@ -287,6 +289,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2157-groups-of-strings](https://github.com/Ezharjan/MyLeetCode/tree/master/2157-groups-of-strings) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ezharjan/MyLeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2801-count-stepping-numbers-in-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2801-count-stepping-numbers-in-range) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ezharjan/MyLeetCode/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2851-string-transformation](https://github.com/Ezharjan/MyLeetCode/tree/master/2851-string-transformation) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [2953-count-complete-substrings](https://github.com/Ezharjan/MyLeetCode/tree/master/2953-count-complete-substrings) |
@@ -418,6 +421,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/Ezharjan/MyLeetCode/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Ezharjan/MyLeetCode/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ezharjan/MyLeetCode/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Ezharjan/MyLeetCode/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3267-count-almost-equal-pairs-ii) |
@@ -486,6 +490,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2659-make-array-empty](https://github.com/Ezharjan/MyLeetCode/tree/master/2659-make-array-empty) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Ezharjan/MyLeetCode/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ezharjan/MyLeetCode/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3139-minimum-cost-to-equalize-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3139-minimum-cost-to-equalize-array) |
@@ -760,6 +765,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Combinatorics
 |  |
 | ------- |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Ezharjan/MyLeetCode/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
