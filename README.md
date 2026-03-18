@@ -66,6 +66,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
+| [3869-count-fancy-numbers-in-a-range](https://github.com/Ezharjan/MyLeetCode/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Recursion
 |  |
 | ------- |
@@ -671,6 +672,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3743-maximize-cyclic-partition-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3743-maximize-cyclic-partition-score) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
+| [3869-count-fancy-numbers-in-a-range](https://github.com/Ezharjan/MyLeetCode/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Graph Theory
 |  |
 | ------- |
