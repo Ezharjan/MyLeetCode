@@ -1,4 +1,4 @@
-# Demystifying Directed Graphs and Cycle Lengths A Friendly Guide [#2876]
+# Demystifying Directed Graphs and Cycle Lengths [#2876]
 
 Hello fellow developers and welcome to my blog! Today I would like to share my thoughts and notes on an incredibly fascinating graph puzzle. Graph problems can sometimes feel a bit overwhelming, especially when we start talking about cycles and paths. However, if we take our time to break the logic down into smaller and more manageable pieces, the entire concept becomes much more approachable and actually quite fun to explore.
 
