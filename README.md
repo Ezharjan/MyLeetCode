@@ -532,6 +532,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0110-balanced-binary-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/0110-balanced-binary-tree) |
 | [0733-flood-fill](https://github.com/Ezharjan/MyLeetCode/tree/master/0733-flood-fill) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Ezharjan/MyLeetCode/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Ezharjan/MyLeetCode/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Ezharjan/MyLeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -624,6 +625,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/Ezharjan/MyLeetCode/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2851-string-transformation](https://github.com/Ezharjan/MyLeetCode/tree/master/2851-string-transformation) |
+| [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2926-maximum-balanced-subsequence-sum) |
@@ -679,6 +681,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Graph Theory
 |  |
 | ------- |
+| [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ezharjan/MyLeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3017-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3017-count-the-number-of-houses-at-a-certain-distance-ii) |
@@ -862,6 +865,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ezharjan/MyLeetCode/tree/master/0070-climbing-stairs) |
 | [0488-zuma-game](https://github.com/Ezharjan/MyLeetCode/tree/master/0488-zuma-game) |
+| [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 ## Bitmask
 |  |
 | ------- |
@@ -952,6 +956,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Topological Sort
 |  |
 | ------- |
+| [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Ezharjan/MyLeetCode/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Ezharjan/MyLeetCode/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Ezharjan/MyLeetCode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3620-network-recovery-pathways](https://github.com/Ezharjan/MyLeetCode/tree/master/3620-network-recovery-pathways) |
