@@ -111,6 +111,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ezharjan/MyLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2157-groups-of-strings](https://github.com/Ezharjan/MyLeetCode/tree/master/2157-groups-of-strings) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Ezharjan/MyLeetCode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/Ezharjan/MyLeetCode/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/Ezharjan/MyLeetCode/tree/master/2584-split-the-array-to-make-coprime-products) |
@@ -354,6 +355,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1089-duplicate-zeros](https://github.com/Ezharjan/MyLeetCode/tree/master/1089-duplicate-zeros) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Ezharjan/MyLeetCode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3455-shortest-matching-substring](https://github.com/Ezharjan/MyLeetCode/tree/master/3455-shortest-matching-substring) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
@@ -371,6 +373,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0887-super-egg-drop](https://github.com/Ezharjan/MyLeetCode/tree/master/0887-super-egg-drop) |
 | [1923-longest-common-subpath](https://github.com/Ezharjan/MyLeetCode/tree/master/1923-longest-common-subpath) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Ezharjan/MyLeetCode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Ezharjan/MyLeetCode/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2659-make-array-empty](https://github.com/Ezharjan/MyLeetCode/tree/master/2659-make-array-empty) |
 | [2736-maximum-sum-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/2736-maximum-sum-queries) |
@@ -418,6 +421,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ezharjan/MyLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Ezharjan/MyLeetCode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2659-make-array-empty](https://github.com/Ezharjan/MyLeetCode/tree/master/2659-make-array-empty) |
 | [2736-maximum-sum-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/2736-maximum-sum-queries) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
@@ -490,6 +494,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0605-can-place-flowers](https://github.com/Ezharjan/MyLeetCode/tree/master/0605-can-place-flowers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Ezharjan/MyLeetCode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2659-make-array-empty](https://github.com/Ezharjan/MyLeetCode/tree/master/2659-make-array-empty) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/Ezharjan/MyLeetCode/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
@@ -706,6 +711,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Enumeration
 |  |
 | ------- |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Ezharjan/MyLeetCode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3139-minimum-cost-to-equalize-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3139-minimum-cost-to-equalize-array) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
@@ -748,6 +754,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Prefix Sum
 |  |
 | ------- |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Ezharjan/MyLeetCode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/Ezharjan/MyLeetCode/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [2983-palindrome-rearrangement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/2983-palindrome-rearrangement-queries) |
