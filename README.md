@@ -28,6 +28,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0067-add-binary](https://github.com/Ezharjan/MyLeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ezharjan/MyLeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ezharjan/MyLeetCode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Ezharjan/MyLeetCode/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ezharjan/MyLeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0805-split-array-with-same-average](https://github.com/Ezharjan/MyLeetCode/tree/master/0805-split-array-with-same-average) |
@@ -88,6 +89,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0066-plus-one](https://github.com/Ezharjan/MyLeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Ezharjan/MyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/Ezharjan/MyLeetCode/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Ezharjan/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Ezharjan/MyLeetCode/tree/master/0220-contains-duplicate-iii) |
@@ -220,6 +222,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0012-integer-to-roman](https://github.com/Ezharjan/MyLeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ezharjan/MyLeetCode/tree/master/0013-roman-to-integer) |
 | [0126-word-ladder-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/0126-word-ladder-ii) |
+| [0149-max-points-on-a-line](https://github.com/Ezharjan/MyLeetCode/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Ezharjan/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ezharjan/MyLeetCode/tree/master/0268-missing-number) |
@@ -970,6 +973,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Ezharjan/MyLeetCode/tree/master/0149-max-points-on-a-line) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Ezharjan/MyLeetCode/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ezharjan/MyLeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
