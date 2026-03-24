@@ -1,4 +1,4 @@
-Unveiling the Magic Behind Counting Subarrays with Shared Bitwise Attributes [#3878]
+# Unveiling the Magic Behind Counting Subarrays with Shared Bitwise Attributes [#3878]
 
 Welcome fellow developers and coding enthusiasts! Today we are going to dive deep into a fascinating algorithmic challenge that beautifully blends array manipulation with bitwise operations. If you have been looking for a comprehensive guide to understanding how to count specific contiguous segments in an array based on their bitwise properties, you have come to the right place. We will break this down meticulously so that everyone, regardless of their current experience level, can grasp the underlying magic.
 
