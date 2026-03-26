@@ -135,6 +135,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3049-earliest-second-to-mark-indices-ii) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/Ezharjan/MyLeetCode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Ezharjan/MyLeetCode/tree/master/3098-find-the-sum-of-subsequence-powers) |
@@ -567,6 +568,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | ------- |
 | [0067-add-binary](https://github.com/Ezharjan/MyLeetCode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/Ezharjan/MyLeetCode/tree/master/0832-flipping-an-image) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3379-transformed-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3379-transformed-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -742,6 +744,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2736-maximum-sum-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/2736-maximum-sum-queries) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Ezharjan/MyLeetCode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
@@ -908,6 +911,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [2736-maximum-sum-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/2736-maximum-sum-queries) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Ezharjan/MyLeetCode/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3161-block-placement-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3161-block-placement-queries) |
 | [3187-peaks-in-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3187-peaks-in-array) |
 | [3245-alternating-groups-iii](https://github.com/Ezharjan/MyLeetCode/tree/master/3245-alternating-groups-iii) |
