@@ -216,6 +216,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/Ezharjan/MyLeetCode/tree/master/3762-minimum-operations-to-equalize-subarrays) |
 | [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/Ezharjan/MyLeetCode/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
+| [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/Ezharjan/MyLeetCode/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -690,6 +691,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3743-maximize-cyclic-partition-score](https://github.com/Ezharjan/MyLeetCode/tree/master/3743-maximize-cyclic-partition-score) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3797-count-routes-to-climb-a-rectangular-grid](https://github.com/Ezharjan/MyLeetCode/tree/master/3797-count-routes-to-climb-a-rectangular-grid) |
+| [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/Ezharjan/MyLeetCode/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 | [3869-count-fancy-numbers-in-a-range](https://github.com/Ezharjan/MyLeetCode/tree/master/3869-count-fancy-numbers-in-a-range) |
 ## Graph Theory
 |  |
@@ -734,6 +736,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3664-two-letter-card-game](https://github.com/Ezharjan/MyLeetCode/tree/master/3664-two-letter-card-game) |
 | [3713-longest-balanced-substring-i](https://github.com/Ezharjan/MyLeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ezharjan/MyLeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3830-longest-alternating-subarray-after-removing-at-most-one-element](https://github.com/Ezharjan/MyLeetCode/tree/master/3830-longest-alternating-subarray-after-removing-at-most-one-element) |
 ## Segment Tree
 |  |
 | ------- |
