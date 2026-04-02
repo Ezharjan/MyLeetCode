@@ -35,6 +35,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0887-super-egg-drop](https://github.com/Ezharjan/MyLeetCode/tree/master/0887-super-egg-drop) |
 | [1622-fancy-sequence](https://github.com/Ezharjan/MyLeetCode/tree/master/1622-fancy-sequence) |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2117-abbreviating-the-product-of-a-range) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/Ezharjan/MyLeetCode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Ezharjan/MyLeetCode/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
@@ -113,6 +114,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ezharjan/MyLeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ezharjan/MyLeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2157-groups-of-strings](https://github.com/Ezharjan/MyLeetCode/tree/master/2157-groups-of-strings) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Ezharjan/MyLeetCode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/Ezharjan/MyLeetCode/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2407-longest-increasing-subsequence-ii) |
@@ -236,6 +238,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [0805-split-array-with-same-average](https://github.com/Ezharjan/MyLeetCode/tree/master/0805-split-array-with-same-average) |
 | [0929-unique-email-addresses](https://github.com/Ezharjan/MyLeetCode/tree/master/0929-unique-email-addresses) |
 | [2157-groups-of-strings](https://github.com/Ezharjan/MyLeetCode/tree/master/2157-groups-of-strings) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ezharjan/MyLeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/Ezharjan/MyLeetCode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2612-minimum-reverse-operations](https://github.com/Ezharjan/MyLeetCode/tree/master/2612-minimum-reverse-operations) |
@@ -813,6 +816,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 |  |
 | ------- |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/Ezharjan/MyLeetCode/tree/master/2117-abbreviating-the-product-of-a-range) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/Ezharjan/MyLeetCode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/2949-count-beautiful-substrings-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ezharjan/MyLeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -827,6 +831,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 ## Counting
 |  |
 | ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Ezharjan/MyLeetCode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ezharjan/MyLeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ezharjan/MyLeetCode/tree/master/3312-sorted-gcd-pair-queries) |
