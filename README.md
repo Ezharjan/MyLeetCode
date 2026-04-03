@@ -445,6 +445,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3098-find-the-sum-of-subsequence-powers](https://github.com/Ezharjan/MyLeetCode/tree/master/3098-find-the-sum-of-subsequence-powers) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3288-length-of-the-longest-increasing-path) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Ezharjan/MyLeetCode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3382-maximum-area-rectangle-with-point-constraints-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ezharjan/MyLeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -557,6 +558,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Ezharjan/MyLeetCode/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Ezharjan/MyLeetCode/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Ezharjan/MyLeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Ezharjan/MyLeetCode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3425-longest-special-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3425-longest-special-path) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/3585-find-weighted-median-node-in-tree) |
@@ -675,6 +677,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/Ezharjan/MyLeetCode/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3352-count-k-reducible-numbers-less-than-n](https://github.com/Ezharjan/MyLeetCode/tree/master/3352-count-k-reducible-numbers-less-than-n) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Ezharjan/MyLeetCode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3389-minimum-operations-to-make-character-frequencies-equal](https://github.com/Ezharjan/MyLeetCode/tree/master/3389-minimum-operations-to-make-character-frequencies-equal) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/Ezharjan/MyLeetCode/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3441-minimum-cost-good-caption](https://github.com/Ezharjan/MyLeetCode/tree/master/3441-minimum-cost-good-caption) |
@@ -882,6 +885,7 @@ Synced automatically via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.
 | [1382-balance-a-binary-search-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Ezharjan/MyLeetCode/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Ezharjan/MyLeetCode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Ezharjan/MyLeetCode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3425-longest-special-path](https://github.com/Ezharjan/MyLeetCode/tree/master/3425-longest-special-path) |
 | [3486-longest-special-path-ii](https://github.com/Ezharjan/MyLeetCode/tree/master/3486-longest-special-path-ii) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Ezharjan/MyLeetCode/tree/master/3585-find-weighted-median-node-in-tree) |
